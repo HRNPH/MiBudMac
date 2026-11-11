@@ -2,6 +2,8 @@
 
 SwiftUI companion for Redmi Buds 6 Play on macOS 14 or later.
 
+![MiBudMac showing battery status, equalizer presets, and low latency controls](docs/images/overview.svg)
+
 ## Features
 
 * Battery levels for each earbud and the case, with charging indicators.
