@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleName</key><string>MiBuds</string>
+    <key>CFBundleDisplayName</key><string>MiBuds</string>
+    <key>CFBundleIdentifier</key><string>local.mibuds.mac</string>
+    <key>CFBundleExecutable</key><string>MiBudsMac</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>CFBundleIconFile</key><string>MiBuds</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>NSBluetoothAlwaysUsageDescription</key><string>MiBuds connects to your Redmi Buds 6 Play to show battery levels and manage sound, latency, and touch controls.</string>
+    <key>NSBluetoothPeripheralUsageDescription</key><string>MiBuds uses Bluetooth to communicate with your paired Redmi Buds 6 Play.</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSSupportsAutomaticTermination</key><false/>
+    <key>NSHumanReadableCopyright</key><string>Copyright 2026 HRNPH. App: GPLv3. Original interface: MIT. Protocol and earbud artwork: CesurPolat/MiBudsClient.</string>
+</dict></plist>
